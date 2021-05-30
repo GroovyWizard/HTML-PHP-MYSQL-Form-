@@ -1,17 +1,19 @@
+
+
 <html>
 	<body> 
 	<link rel="stylesheet" href="style.css">
 	<div class="container">
 		<div class="left">
 			<div class="header">
-				<h2 class="animation a1">Bem vindo de volta</h2>
-				<h4 class="animation a2">Qual seu email e Nome de Usuário?</h4>
+				<h2 class="animation a1">Welcome back</h2>
+				<h4 class="animation a2">Login with your Username and Password</h4>
 			</div>
-			<form action="welcome_get.php" method="get"  class="form">
+			<form action="validate.php" method="get"  class="form">
 				<input type="text" name="email" class="form-field animation a3" placeholder="Email"> <br>
-				<input type="text" name="name" class="form-field animation a4" placeholder="Usuario"> <br>
+				<input type="password" name="password" class="form-field animation a4" placeholder="Password"> <br>
 				<p class="animation a5">
-					<a href="#" class="forgotusr">Esqueceu o seu nome de usuário?</a></p>
+					<a href="forgotPassword.php" class="forgotusr">Forgot your password?</a></p>
 				<input type="submit" class="animation a6">
 				</form>
 			</div>
@@ -26,15 +28,8 @@
 	
 	
 	
-	
-	
-	
-	
-	
+		
 </html>
-
-
-
 
 <?php
 
