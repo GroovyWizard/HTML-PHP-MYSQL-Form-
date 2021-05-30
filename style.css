@@ -6,8 +6,9 @@
 
 body {
 		 background-image: url(/img/background.png) ;
-		 font-family: 'IBM Plex Sans Condensed';
-		 font-size: 16px;
+		 font-family: 'Verdana';
+		 font-weight: bold;
+		 font-size: 14px;
 		 letter-spacing: 2px;
 		 word-spacing: 2px;
 		 color: #000000;
@@ -52,13 +53,13 @@ body {
 .header > h2 {
 	margin: 0;
 	color: #4f46a5;
-	font-size:30px;
+	font-size:24px;
 }
 
 .header > h4 {
 	margin-top: 10px;
 	font-weight: normal;
-	font-size: 15px;
+	font-size: 16px;
 	color: rgba(0,0,0,.4);
 	font-size: 20px;
 }
@@ -71,12 +72,14 @@ body {
 }
 
 .form > p {
-	text-align: right;
+	text-align: left;
+	font-size: 10px;
+	letter-spacing: 1px;
 }
 
 .form > p > a {
 	color: #000;
-	font-size: 14px;
+	
 }
 
 .form-field {
@@ -116,6 +119,7 @@ body {
 .form > p > a{
 	text-align: left;
 	font-size: 15px;
+	color: #0097ff;
 	
 	
 }
