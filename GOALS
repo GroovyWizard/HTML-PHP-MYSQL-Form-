@@ -1,2 +1,4 @@
-1 - Insert a Password field that doesn´t get "echoed" through welcome_get.php.
-2 - Make "Forgot your password?" line functional.
+1 - Insert a Password field that doesn´t get "echoed" through welcome_get.php. [OK]
+2 - Make "Forgot your password?" line functional. [OK]
+3 -  Make a Register form that write on the MYSQL database. [ ]
+4 -  A CRUD class to integrate the MYSQL Database to retrieve the field $name, which will be inserted during the register process. [ ]
