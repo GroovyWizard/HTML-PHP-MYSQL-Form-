@@ -15,3 +15,11 @@ Description: The base project.
 Title: New Forgot your password features
 
 Description:  Working "forgot your password" anchor/php archive and a new name attribute that will be retrieved from the Database in the next update, 
+
+- 01/06/2021
+
+Title: New primitive Database connection 
+
+Description: 
+1- New DAO with a basic function to connect to the database and fetch data, nothing too fancy.
+2- Some SQL scripts which can be used to simulate the same environment.
