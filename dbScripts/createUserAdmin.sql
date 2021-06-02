@@ -1,0 +1,1 @@
+grant all privileges on wizardry_coop.* to admin identified by 'admin';
