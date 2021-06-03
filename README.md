@@ -22,4 +22,11 @@ Title: New primitive Database connection
 
 Description: 
 1- New DAO with a basic function to connect to the database and fetch data, nothing too fancy.
-2- Some SQL scripts which can be used to simulate the same environment.
+2- Some SQL scripts that you can use to simulate the same environment.
+
+- 03/06/2021
+
+Title: New backend functions
+
+Description:
+1- New function to check if the submited email was already used.
