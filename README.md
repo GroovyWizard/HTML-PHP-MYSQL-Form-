@@ -20,7 +20,8 @@ Description:  Working "forgot your password" anchor/php archive and a new name a
 
 Title: New primitive Database connection 
 
-Description: 
+Description:
+
 1- New DAO with a basic function to connect to the database and fetch data, nothing too fancy.
 2- Some SQL scripts that you can use to simulate the same environment.
 
@@ -29,4 +30,5 @@ Description:
 Title: New backend functions
 
 Description:
+
 1- New function to check if the submited email was already used.
